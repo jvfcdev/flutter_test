@@ -7,7 +7,7 @@ Este é um projeto de teste para Desenvolvedor Flutter, que inclui uma tela de l
 ## Requisitos
 - Flutter SDK
 - Dart
-- Android Studio/Dispositivo físico
+- Android Studio/Dispositivo físico(celular)
 
 ## Instalação
 1. Instale as dependências:
