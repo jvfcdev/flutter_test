@@ -1,16 +1,28 @@
-# teste_flutter
 
-A new Flutter project.
+# Projeto Flutter de Teste
 
-## Getting Started
+## Descrição
+Este é um projeto de teste para Desenvolvedor Flutter, que inclui uma tela de login com validação, uma tela inicial com funcionalidade de logout e integração com a API JSONPlaceholder para exibição de uma lista em tela.
 
-This project is a starting point for a Flutter application.
+## Requisitos
+- Flutter SDK
+- Dart
+- Android Studio/Dispositivo físico
 
-A few resources to get you started if this is your first Flutter project:
+## Instalação
+1. Instale as dependências:
+   ```sh
+   flutter pub get
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Execução
+1. Inicie um emulador ou conecte um dispositivo físico.
+2. Execute o aplicativo:
+   ```sh
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Funcionalidades
+- Tela de login com validação de e-mail e senha.
+- Tela inicial com mensagem de boas-vindas e botão de logout.
+- Integração com a API JSONPlaceholder para exibição de uma lista de posts.
